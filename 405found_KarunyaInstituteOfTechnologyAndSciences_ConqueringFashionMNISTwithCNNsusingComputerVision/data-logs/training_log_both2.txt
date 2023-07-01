@@ -1,0 +1,44 @@
+Epoch 1 - Time: 2023-06-29 08:12:09 - Accuracy: 0.7473
+Epoch 2 - Time: 2023-06-29 08:12:28 - Accuracy: 0.8212
+Epoch 3 - Time: 2023-06-29 08:12:47 - Accuracy: 0.8403
+Epoch 4 - Time: 2023-06-29 08:13:06 - Accuracy: 0.8475
+Epoch 5 - Time: 2023-06-29 08:13:25 - Accuracy: 0.8541
+Epoch 6 - Time: 2023-06-29 08:13:44 - Accuracy: 0.8582
+Epoch 7 - Time: 2023-06-29 08:14:02 - Accuracy: 0.8613
+Epoch 8 - Time: 2023-06-29 08:14:21 - Accuracy: 0.8639
+Epoch 9 - Time: 2023-06-29 08:14:39 - Accuracy: 0.8673
+Epoch 10 - Time: 2023-06-29 08:14:58 - Accuracy: 0.8673
+Epoch 11 - Time: 2023-06-29 08:15:16 - Accuracy: 0.8686
+Epoch 12 - Time: 2023-06-29 08:15:35 - Accuracy: 0.8715
+Epoch 13 - Time: 2023-06-29 08:15:53 - Accuracy: 0.8706
+Epoch 14 - Time: 2023-06-29 08:16:12 - Accuracy: 0.8733
+Epoch 15 - Time: 2023-06-29 08:16:30 - Accuracy: 0.8733
+Epoch 16 - Time: 2023-06-29 08:16:48 - Accuracy: 0.8735
+Epoch 17 - Time: 2023-06-29 08:17:06 - Accuracy: 0.8742
+Epoch 18 - Time: 2023-06-29 08:17:26 - Accuracy: 0.8752
+Epoch 19 - Time: 2023-06-29 08:17:45 - Accuracy: 0.8759
+Epoch 20 - Time: 2023-06-29 08:18:03 - Accuracy: 0.8783
+Epoch 21 - Time: 2023-06-29 08:18:21 - Accuracy: 0.8776
+Epoch 22 - Time: 2023-06-29 08:18:40 - Accuracy: 0.8791
+Epoch 23 - Time: 2023-06-29 08:18:58 - Accuracy: 0.8785
+Epoch 24 - Time: 2023-06-29 08:19:17 - Accuracy: 0.8804
+Epoch 25 - Time: 2023-06-29 08:19:36 - Accuracy: 0.8790
+Epoch 26 - Time: 2023-06-29 08:19:56 - Accuracy: 0.8801
+Epoch 27 - Time: 2023-06-29 08:20:16 - Accuracy: 0.8795
+Epoch 28 - Time: 2023-06-29 08:20:38 - Accuracy: 0.8788
+Epoch 29 - Time: 2023-06-29 08:20:58 - Accuracy: 0.8796
+Epoch 30 - Time: 2023-06-29 08:21:17 - Accuracy: 0.8812
+Epoch 31 - Time: 2023-06-29 08:21:37 - Accuracy: 0.8818
+Epoch 32 - Time: 2023-06-29 08:21:57 - Accuracy: 0.8804
+Epoch 33 - Time: 2023-06-29 08:22:18 - Accuracy: 0.8823
+Epoch 34 - Time: 2023-06-29 08:22:37 - Accuracy: 0.8815
+Epoch 35 - Time: 2023-06-29 08:22:57 - Accuracy: 0.8835
+Epoch 36 - Time: 2023-06-29 08:23:17 - Accuracy: 0.8809
+Epoch 37 - Time: 2023-06-29 08:23:36 - Accuracy: 0.8810
+Epoch 38 - Time: 2023-06-29 08:23:55 - Accuracy: 0.8822
+Epoch 39 - Time: 2023-06-29 08:24:14 - Accuracy: 0.8817
+Epoch 40 - Time: 2023-06-29 08:24:33 - Accuracy: 0.8834
+
+Test Loss: 0.4179
+Test Accuracy: 0.8959
+Total Training Time: 764.80 seconds

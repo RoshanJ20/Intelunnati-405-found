@@ -1,0 +1,24 @@
+Epoch 1 - Time: 2023-06-29 07:14:41 - Accuracy: 0.7338
+Epoch 2 - Time: 2023-06-29 07:14:58 - Accuracy: 0.8270
+Epoch 3 - Time: 2023-06-29 07:15:16 - Accuracy: 0.8480
+Epoch 4 - Time: 2023-06-29 07:15:33 - Accuracy: 0.8601
+Epoch 5 - Time: 2023-06-29 07:15:50 - Accuracy: 0.8705
+Epoch 6 - Time: 2023-06-29 07:16:07 - Accuracy: 0.8776
+Epoch 7 - Time: 2023-06-29 07:16:24 - Accuracy: 0.8810
+Epoch 8 - Time: 2023-06-29 07:16:42 - Accuracy: 0.8848
+Epoch 9 - Time: 2023-06-29 07:17:00 - Accuracy: 0.8900
+Epoch 10 - Time: 2023-06-29 07:17:18 - Accuracy: 0.8924
+Epoch 11 - Time: 2023-06-29 07:17:36 - Accuracy: 0.8947
+Epoch 12 - Time: 2023-06-29 07:17:54 - Accuracy: 0.8963
+Epoch 13 - Time: 2023-06-29 07:18:12 - Accuracy: 0.8997
+Epoch 14 - Time: 2023-06-29 07:18:30 - Accuracy: 0.9008
+Epoch 15 - Time: 2023-06-29 07:18:48 - Accuracy: 0.9025
+Epoch 16 - Time: 2023-06-29 07:19:05 - Accuracy: 0.9041
+Epoch 17 - Time: 2023-06-29 07:19:21 - Accuracy: 0.9066
+Epoch 18 - Time: 2023-06-29 07:19:39 - Accuracy: 0.9070
+Epoch 19 - Time: 2023-06-29 07:19:56 - Accuracy: 0.9073
+Epoch 20 - Time: 2023-06-29 07:20:13 - Accuracy: 0.9086
+
+Test Loss: 0.2384
+Test Accuracy: 0.9119
+Total Training Time: 350.56 seconds
